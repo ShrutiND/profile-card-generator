@@ -100,7 +100,11 @@ The application follows a **layered architecture**:
 
 **Learning Outcomes :
 1.Understood why JPA is preferred over JDBC
+
 2.Learned how entity classes map to database tables
+
 3.Implemented REST APIs using Spring Boot
+
 4.Applied layered architecture in a real project
+
 5.Improved understanding of backend request–response flow
